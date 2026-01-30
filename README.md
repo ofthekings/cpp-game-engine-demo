@@ -1,5 +1,5 @@
 # C++ Game Engine (Finite State Machine)
-This repository documents the GameEngine module I designed and implemented for a team-based turn-based strategy game.
+This repository documents the GameEngine module I designed and implemented for a team-based turn-based strategy game. It documents the architecture and implementation of the GameEngine module rather than a visual demo.
 
 ## My contribution
 * Designed and implemented the core GameEngine
