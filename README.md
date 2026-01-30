@@ -12,5 +12,5 @@ This repository documents the GameEngine module I designed and implemented for a
 C++, STL, OOP, Finite State Machine, Smart Pointers
 
 ## Note
-The full project repository is private due to course and team constraints.
-Code shown here reflects only my contribution.
+* The full project repository is private due to course and team constraints. Code shown here reflects only my contribution.
+* This driver contains a commented main() used during module-level testing. The full application entry point was defined elsewhere in the project.
