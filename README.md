@@ -3,7 +3,7 @@ This repository documents the GameEngine module I designed and implemented for a
 
 ## My contribution
 * Designed and implemented the core GameEngine
-* Built FSM for game phases (startup → play → win)
+* Built FSM for game phases (startup, play, win)
 * Implemented command validation
 * Integrated engine with team modules (map, cards, players, orders)
 * Wrote test drivers for state transitions
